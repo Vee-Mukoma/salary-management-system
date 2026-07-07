@@ -13,3 +13,8 @@ BEGIN
 END $$
 
 DELIMITER ;
+
+CALL `Process Transaction`(3, 3, 141000.00, 'Bank Transfer', 'BT123456');
+CALL `Process Transaction`(5, 1, 65500.00, 'Bank Transfer', 'BT789012');
+
+
