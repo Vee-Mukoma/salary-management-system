@@ -1,0 +1,13 @@
+CALL calculateNetSalary(3);
+CALL calculateNetSalary(4);
+CALL calculateNetSalary(5);
+CALL calculateNetSalary(6);
+CALL calculateNetSalary(7);
+CALL calculateNetSalary(8);
+CALL calculateNetSalary(9);
+CALL calculateNetSalary(10);
+CALL calculateNetSalary(11);
+CALL calculateNetSalary(12);
+CALL calculateNetSalary(13);
+CALL calculateNetSalary(14);
+CALL calculateNetSalary(15);
